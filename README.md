@@ -35,9 +35,6 @@
 
 [<img src="https://i.ytimg.com/vi/fZbjfb_0VHM/maxresdefault.jpg" width="80%">](https://www.youtube.com/watch?v=fZbjfb_0VHM "Arduino")
 
-## NodeMCU CH340G Drive Kurulumu
-
-* Ch340G çipi olan modellerde işlevsel olarak hiç bir fark yoktur. NodeMCU’nun en çok kullanılnan CH340G çipli modeline driver yüklemeye [buradan](https://maker.robotistan.com/nodemcu-esp8266/) ulaşabilirsiniz
 
 ## Örnek Projeler
 
